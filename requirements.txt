@@ -1,0 +1,14 @@
+pandas
+nltk
+matplotlib
+numpy
+scikit-learn
+wordcloud
+transformers
+instaloader
+time
+emoji
+textblob
+pathlib
+csv
+os
