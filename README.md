@@ -34,8 +34,6 @@ Instal semua dependensi dengan:
 pip install -r requirements.txt
 ```
 
-> Jika `requirements.txt` belum tersedia, pastikan untuk install library seperti: `pandas`, `scikit-learn`, `beautifulsoup4`, `requests`, dan `matplotlib`.
-
 ---
 
 ## 🚀 Cara Menjalankan
