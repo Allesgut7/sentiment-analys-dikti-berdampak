@@ -62,12 +62,6 @@ Kontribusi sangat terbuka! Jika kamu ingin memperbaiki bug, menambahkan fitur, a
 
 ---
 
-## 📄 Lisensi
-
-Proyek ini menggunakan [MIT License](LICENSE).
-
----
-
 ## 📬 Kontak
 
 Untuk pertanyaan atau saran, silakan hubungi melalui GitHub [@Allesgut7](https://github.com/Allesgut7)
